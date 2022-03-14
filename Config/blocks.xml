@@ -1,0 +1,22 @@
+<configs>
+
+	<append xpath="/blocks/block[starts-with(@name,'tree')]">
+		<property name="DynamicRotation" value="30"/>
+	</append>
+	<append xpath="/blocks/block[starts-with(@name,'forestFlower')]">
+		<property name="DynamicRotation" value="30"/>
+	</append>
+
+	<append xpath="/blocks/block[starts-with(@name,'mushroom')]">
+		<property name="DynamicRotation" value="30"/>
+	</append>
+
+	<append xpath="/blocks/block[starts-with(@name,'planted')]">
+		<property name="DynamicRotation" value="30"/>
+	</append>
+
+	<append xpath="/blocks/block[starts-with(@name,'rock0')]">
+		<property name="DynamicRotation" value="30"/>
+	</append>
+
+</configs>
